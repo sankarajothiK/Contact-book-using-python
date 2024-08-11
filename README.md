@@ -12,7 +12,7 @@ Clone the Repository:
 bash
 Copy code
 git clonehttps://github.com/sankarajothiK/Contact-book-using-python.git
-cd contact-book-tkinter
+
 Ensure Python is Installed:
 
 This application is built using Python 3. Make sure you have Python 3 installed on your machine.
